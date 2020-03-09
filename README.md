@@ -1,6 +1,8 @@
 # JinJianxiangMyGithubProject
 基于github创建毕设项目的步骤
+
 1.安装git
+
 1.1 下载git
 
 1.2 安装git
